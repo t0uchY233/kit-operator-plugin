@@ -1,0 +1,9 @@
+# Внутренние файлы оркестрации, не для репозитория
+ТЗ_*.md
+ОТЧЁТ_*.md
+РЕВЬЮ_*.md
+__pycache__/
+*.pyc
+agent.new/
+agent.old/
+plugin.json.new

@@ -1,0 +1,12 @@
+{
+  "name": "kit-operator",
+  "interface": { "displayName": "КИТ — оператор" },
+  "plugins": [
+    {
+      "name": "operator-kit",
+      "source": { "source": "local", "path": "./plugins/operator-kit" },
+      "policy": { "installation": "AVAILABLE", "authentication": "ON_INSTALL" },
+      "category": "Productivity"
+    }
+  ]
+}
