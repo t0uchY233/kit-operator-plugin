@@ -10,7 +10,7 @@
 codex plugin marketplace add t0uchY233/kit-operator-plugin
 ```
 
-Репозиторий приватный: нужен доступ к нему и вход в GitHub (`gh auth login`). Перезапустите ChatGPT desktop → Plugins → источник «КИТ — оператор» → Install. В новом чате вызовите `@operator-kit` или задайте обычный вопрос о проекте или составе оператора.
+Перезапустите ChatGPT desktop → Plugins → источник «КИТ — оператор» → Install. В новом чате вызовите `@operator-kit` или задайте обычный вопрос о проекте или составе оператора.
 
 ## Локальная установка без GitHub
 
